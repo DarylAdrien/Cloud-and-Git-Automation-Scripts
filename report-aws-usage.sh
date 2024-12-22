@@ -1,13 +1,13 @@
 #!/bin/bash
 
 ##############################################
-Author : Daryl Adrien E
+#Author : Daryl Adrien E
 
-Date : 05-09-2024
+#Date : 05-09-2024
 
-Version : V1
+#Version : V1
 
-This script will report the AWS resource Usage
+#This script will report the AWS resource Usage
 
 ###############################################
 
