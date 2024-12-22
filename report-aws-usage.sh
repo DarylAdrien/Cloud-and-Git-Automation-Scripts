@@ -12,10 +12,10 @@
 ###############################################
 
 
-AWS S3
-AWS EC2
-AWS Lambda
-AWS IAM
+#AWS S3
+#AWS EC2
+#AWS Lambda
+#AWS IAM
 
 
 #debug mode
